@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Selina's Flory Space
 
-You can use the [editor on GitHub](https://github.com/Goosy-Goose/floryspace/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Today’s students are faced with stress and anxiety as a result of school or work life and have added pressure from social media and technology. Stress is heavily related to many symptoms of depression such as irritability or difficulty with concentration as well as symptoms of anxiety like restlessness or feeling tired. Some of these students are able to find a healthy outlet for stress, however other students may not be able to. We have created a program where students will be able to destress and explore their emotions with the help of suggestions from our system based on previously explored thoughts. Our program uses machine learning to help students get the most effective stress relief by suggesting different mental health exercises to try based on input given by the user and provides emotional comfort based on the user’s preferences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
+The two biggest factors of teen depression are stress and technology. Over 4 million children aged 3-17 in the US have either anxiety or depression, and this number has only gone up in recent times. Many teenagers spend over 7 hours on screen (from phones to computers and tvs) not including the amount of time they spend on schoolwork. In these hours, students frequent entertainment sites such as social media and video watching sites, which may have negative impacts on the student’s self esteem. The Covid-19 pandemic also placed pressure on teenagers due to the sudden spike in fear and isolation. Not only that, but when school resumed, many students found themselves facing a higher level of academic stress from having to adjust to online learning as well as the inefficiency of teaching through online meetings. Having to self-quarantine for a long period of time also ruins many teenagers’ routines, specifically their sleep schedules, which could lead to an imbalance in hormones.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Allowing students to take breaks to play video games casually provides them with a temporary escape from the chaos of school life. Not only that, but using video games as a stress relief mechanism has been proven to decrease the symptoms of stress.
 
-```markdown
-Syntax highlighted code block
+Many students had to face the sudden onslaught of changes to their lives. Humans depend on routine and structure to feel safe. Having to change from in-person school with grading that has been in place since kindergarten and a stable schedule to online school or even hybrid schools created a sort of whiplash that many students had trouble getting used to. Having a way to help them take their minds off of their hectic lives may help students become less stressed.
 
-# Header 1
-## Header 2
-### Header 3
+College application policies regarding standardized testing and more also changed drastically within the past couple of years, causing high tension in students’ lives as they had to adjust accordingly. Many students felt as if the college application tests and materials they had prepared for were either becoming useless or less important.
 
-- Bulleted
-- List
+All of these factors put teenagers at risk for depression, which is characterized by a loss of energy, poor school performance, self harm, and even suicidal thoughts. The issue of mental health has stigma surrounding it, making it difficult for teenagers to discuss the topic with people in their immediate lives. Instead, it is easier for students to go online, where no one who truly knows who they are and vent about whatever happened in their lives that day. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Features in Our Method
 
-[Link](url) and ![Image](src)
-```
+we research if our game is useful in helping students destress. We believe that this method may not be as successful with helping the user understand themselves better in comparison to other applications that are more focused on guiding the user through exploring their own thoughts, however our method aims to help the user either relax or get happier through a few fun minigames. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Our goal is to optimize relaxation for users through the collection of data that are collected from the game. Some features included in our method are a journal that records user input and multiple minigames that do not have a time limit pressure or a large pressure for failure. We also utilize the tendency for younger adults to relate with inanimate objects in our method with our number of Non-Playable Characters (NPCs). Since the recent Covid-19 pandemic required most citizens to self-quarantine, there were increased feelings of loneliness throughout the world. Having a digital “friend” gives the users a character to relate to and through this, they may be able to grow or come to a new understanding of the self. The NPCs in our game each have their own personalities and elaborate backstories that users can read about. Finishing certain tasks may also trigger a message from the NPCS. Other methods may not have an incentive for success and may not give the user a sense of attachment. 
 
-### Jekyll Themes
+Another feature of our game is the short time it takes to play. Each round is less than a minute, a feature that has been made more relevant by the hustle and bustle of modern life. Many students have jam-packed schedules filled with homework and extracurriculars and may not have the time to sit down and play an hour long game. Having this constant pressure placed on them, students may end up feeling stressed even when they are resting. This leads to anxiety filled breaks where students may not be able to fully enjoy any games they play. Having short, less than a minute rounds is a key feature to helping students relax.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Goosy-Goose/floryspace/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
