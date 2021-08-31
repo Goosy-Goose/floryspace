@@ -9031,7 +9031,7 @@ Sticky Menu
   margin: 0 auto;
   max-width: 1920px;
   background-color: #fafafa;
-  padding: 235px 0px 140px 0px;
+  padding: 235px 0px 20px 0px;
 }
 
 .saas_two_banner_section:before {
@@ -9213,7 +9213,7 @@ Sticky Menu
 /*Service area*/
 /*----------------------------------------------------*/
 .saas_two_about_section {
-  padding: 70px 0px;
+  padding: 20px 0px;
   background-color: #ebedf2;
 }
 
@@ -9924,7 +9924,7 @@ Sticky Menu
 /*----------------------------------------------------*/
 .saas_two_footer_section {
   z-index: 1;
-  margin-top: 140px;
+  margin-top: 70px;
   padding: 0px 0px 65px;
 }
 
@@ -10599,11 +10599,11 @@ Sticky Menu
   }
 
   .saas_two_service_section {
-    padding: 60px 0px;
+    padding: 20px 0px;
   }
 
   .saas_two_about_section {
-    padding: 60px 0px 30px;
+    padding: 20px 0px 30px;
   }
 
   .saas_two_about_section .about_content_s2 {
@@ -10624,7 +10624,7 @@ Sticky Menu
   }
 
   .saas_two_feature_section {
-    padding: 60px 0px 25px;
+    padding: 20px 0px 5px;
   }
 
   .saas_two_feature_section .s2-feature_right .s2-feature_list .s2-feature_icon {
@@ -10639,7 +10639,7 @@ Sticky Menu
   }
 
   .saas_two_team_section {
-    padding: 60px 0px;
+    padding: 20px 0px;
   }
 
   .s2-faq_section .s2_faq_content button {
@@ -10647,11 +10647,11 @@ Sticky Menu
   }
 
   .s2-faq_section {
-    padding: 60px 0px 25px;
+    padding: 20px 0px 25px;
   }
 
   .s2-pricing_section {
-    padding: 60px 0 40px;
+    padding: 20px 0 40px;
   }
 
   .saas_two_section_title h2 {
@@ -10664,7 +10664,7 @@ Sticky Menu
   }
 
   .saas_two_service_section .service_content {
-    padding-top: 40px;
+    padding-top: 20px;
   }
 
   .saas_two_about_section .s2-about_text_icon .s2-about_text h3 {
@@ -10696,15 +10696,15 @@ Sticky Menu
   }
 
   .s2-faq_section .s2_faq_content {
-    padding-top: 40px;
+    padding-top: 20px;
   }
 
   .s2-pricing_section .s2-pricing_content {
-    padding-top: 40px;
+    padding-top: 20px;
   }
 
   .saas_two_footer_section {
-    padding-bottom: 30px;
+    padding-bottom: 10px;
   }
 
   .saas_two_footer_section .s2-newslatter_section .s2-newslatter-form button {
